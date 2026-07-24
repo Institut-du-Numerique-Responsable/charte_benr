@@ -1,4 +1,4 @@
-# Charte du bénévole — Institut du Numérique Responsable (INR)
+# Charte du bénévole : Institut du Numérique Responsable (INR)
 
 **Version** : 0.1 (brouillon)
 **Statut** : à valider par le Conseil d'Administration
@@ -14,11 +14,11 @@ Elle s'applique à tous les rôles de contribution : chef de projet, animateur d
 
 ## 2. Rôles et engagements
 
-S'engager auprès de l'INR, c'est accepter quelques règles simples. On tient les délais qu'on a promis à son GT, à son collège ou à son chef de projet — et quand ce n'est pas possible, on prévient plutôt que de laisser les autres découvrir le retard. On échange de façon respectueuse, y compris quand on n'est pas d'accord : les désaccords font avancer les projets, les tensions les bloquent. Face à des partenaires, dans la presse ou sur les réseaux sociaux, chaque contributeur représente un peu l'INR, et le fait avec loyauté.
+S'engager auprès de l'INR, c'est accepter quelques règles simples. On tient les délais qu'on a promis à son GT, à son collège ou à son chef de projet, et quand ce n'est pas possible, on prévient plutôt que de laisser les autres découvrir le retard. On échange de façon respectueuse, y compris quand on n'est pas d'accord : les désaccords font avancer les projets, les tensions les bloquent. Face à des partenaires, dans la presse ou sur les réseaux sociaux, chaque contributeur représente un peu l'INR, et le fait avec loyauté.
 
 Si un conflit d'intérêt, un blocage ou une simple difficulté se présente, mieux vaut en parler tôt au chef de projet ou au bureau plutôt que de laisser la situation s'envenimer. Et pour ceux qui pilotent un projet ou animent un GT : un suivi régulier de l'équipe et un reporting honnête de l'avancement (météo projet, jalons, décisions en attente) font partie du rôle.
 
-Le détail change d'un rôle à l'autre — fréquence de reporting, marge de décision, budget délégué — et se cale au cas par cas dans la lettre de mission ou l'échange de cadrage avec le bureau.
+Le détail change d'un rôle à l'autre (fréquence de reporting, marge de décision, budget délégué) et se cale au cas par cas dans la lettre de mission ou l'échange de cadrage avec le bureau.
 
 ## 3. Propriété intellectuelle et licences
 
