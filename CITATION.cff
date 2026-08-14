@@ -1,0 +1,27 @@
+# Métadonnées de citation lisibles par les humains, les moteurs et les assistants IA.
+# Format Citation File Format 1.2.0 — https://citation-file-format.github.io
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer comme ci-dessous."
+type: software
+title: "charte_benr — Charte de la ou du bénévole à l'Institut du Numérique Responsable"
+abstract: "Charte de la ou du bénévole à l'INR : engagements, rôles et cadre du bénévolat / Volunteer charter"
+authors:
+  - name: "Institut du Numérique Responsable"
+    alias: "INR"
+    website: "https://institutnr.org"
+  - given-names: "Guillaume"
+    family-names: "Gallon"
+    alias: "gridboy"
+    affiliation: "Institut du Numérique Responsable"
+repository-code: "https://github.com/Institut-du-Numerique-Responsable/charte_benr"
+license: CC0-1.0
+date-released: 2026-07-24
+keywords:
+  - "association"
+  - "benevolat"
+  - "charte"
+  - "code-of-conduct"
+  - "governance"
+  - "inr"
+  - "numerique-responsable"
+  - "volunteering"
