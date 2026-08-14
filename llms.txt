@@ -1,0 +1,17 @@
+# charte_benr — Charte de la ou du benevole a l'INR
+
+> Charte du benevolat a l'Institut du Numerique Responsable : preambule, roles et engagements, propriete intellectuelle et licences, donnees personnelles, usage responsable du numerique, non-respect de la charte, adhesion.
+
+## Docs
+
+- [Charte en ligne](https://institut-du-numerique-responsable.github.io/charte_benr/)
+- [Texte source](https://github.com/Institut-du-Numerique-Responsable/charte_benr/blob/main/CHARTE-BENEVOLE.md)
+
+## Qui publie
+
+Publie par l'**Institut du Numerique Responsable** (INR), association loi 1901
+creee en 2018 : https://institutnr.org — voir aussi ISIT Belgique
+(https://isit-be.org) et ISIT Suisse (https://isit-ch.org).
+
+Citation : voir CITATION.cff a la racine du depot.
+Contributeurs : voir la page "Contributors" du depot GitHub.
